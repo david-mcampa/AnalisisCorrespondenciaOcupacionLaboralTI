@@ -1,6 +1,6 @@
 # Análisis de Correspondencia para Datos de Ocupación Laboral en la Industria TI
 
-Utilizando el análisis de correspondencia, investigamos los requisitos educativos, las herramientas principales, y los salarios asociados a los roles relacionados 
+Utilizando el análisis de correspondencia, se investigan los requisitos educativos, las herramientas principales, y los salarios asociados a los roles relacionados 
 al manejo de datos dentro de la Industria TI.
 
 ## Análisis Exploratorio
