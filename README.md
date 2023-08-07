@@ -17,7 +17,7 @@ La base de datos _kaggle\_survey\_2020\_responses.csv_, contiene las respuestas 
 
 Este gráfico nos proporciona información sobre los puestos más populares que la gente cree ocupar en su trabajo, podemos observar que el cargo más popular es el de científico de datos, le siguen ingeniero de software y analista de datos (esto sin contar a 'otros' y 'desempleados').
 
-![trabajos](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/a8df8380-ab08-41d5-ae9e-c2ac545107ff)
+![trabajos](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/3a7347ec-120c-4356-8bb5-f2ddfa2cc22f)
 
 En la figura (\ref{fig:freqtrabcont}) tenemos un gráfico de conteo de los puestos de trabajo por continente y separados por géneros masculino y femenino. En el gráfico podemos observar que la mayoría de los encuestados en el continente asiático  son estudiantes. Del mismo modo, en casi todos los continentes, el puesto de trabajo más popular es el de científico de datos (de acuerdo a la proporción de encuestados de cada país). Otra observación importante es que, las mujeres tienen menos presencia para los mismos puestos que los hombres. 
 
