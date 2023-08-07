@@ -8,7 +8,7 @@ nuestro análisis indica que los puestos de procesamiento de datos tienen los sa
 desarrollo de software e investigación tienden a tener salarios relativamente más bajos. Este análisis arroja luz sobre el panorama de los puestos en el modelado y 
 manejo de datos en la industria global.
 
-\section{Descripción de los datos}
+## Descripción de los datos
 La base de datos \textit{kaggle\_survey\_2020\_responses.csv}, contiene las respuestas de los participantes de la encuesta de Kaggle, que incluyen información sobre su experiencia, habilidades, educación, empleo y otras áreas relacionadas con la ciencia de datos. Dicha base cuenta con más de 39 preguntas (columnas) y  y 20,036 respuestas (filas) por usuarios de diferentes partes del mundo. Algunas de las variables con la que cuenta la base son: 
 
 \begin{itemize}
