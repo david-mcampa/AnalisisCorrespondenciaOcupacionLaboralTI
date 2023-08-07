@@ -30,7 +30,7 @@ Finalmente, en la figura que se muestra a continuación podemos observar como en
 
 ## Análisis de Correspondencia
 
-La relación entre nivel de estudios y puestos de trabajo se muestra en la Figura (\ref{fig:esttrab}. El ajuste fue muy bueno pues la inercia de la primera dimensión es de 83.01% y de la segunda 16.62%.
+La relación entre nivel de estudios y puestos de trabajo se muestra a continuación. El ajuste fue muy bueno pues la inercia de la primera dimensión es de 83.01% y de la segunda 16.62%.
 
 ![EstTrab](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/2f4cc13f-a5be-4a14-b9db-0fd32ee1d7c3)
 
