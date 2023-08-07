@@ -19,20 +19,20 @@ Este gráfico nos proporciona información sobre los puestos más populares que 
 
 ![trabajos](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/3a7347ec-120c-4356-8bb5-f2ddfa2cc22f)
 
-En la figura (\ref{fig:freqtrabcont}) tenemos un gráfico de conteo de los puestos de trabajo por continente y separados por géneros masculino y femenino. En el gráfico podemos observar que la mayoría de los encuestados en el continente asiático  son estudiantes. Del mismo modo, en casi todos los continentes, el puesto de trabajo más popular es el de científico de datos (de acuerdo a la proporción de encuestados de cada país). Otra observación importante es que, las mujeres tienen menos presencia para los mismos puestos que los hombres. 
+En la siguiente figura tenemos un gráfico de conteo de los puestos de trabajo por continente y separados por géneros masculino y femenino. En el gráfico podemos observar que la mayoría de los encuestados en el continente asiático  son estudiantes. Del mismo modo, en casi todos los continentes, el puesto de trabajo más popular es el de científico de datos (de acuerdo a la proporción de encuestados de cada país). Otra observación importante es que, las mujeres tienen menos presencia para los mismos puestos que los hombres. 
 
-![trabajoscont](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/0bbfcfae-2598-4286-8401-d5a540f2e8c1)
+![trabajoscont](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/589e9eaa-399c-44fa-a088-9b7320d5d5d7)
 
 
-Finalmente, en la figura (\ref{fig:freqestcont}) podemos observar como en Asia la mayoría de los encuestados tienen el grado de licenciado seguido por el de maestro. Por otro lado, Europa parece ser el continente con mayor cantidad de personas con doctorado y Australia el que cuenta con menos.
+Finalmente, en la figura que se muestra a continuación podemos observar como en Asia la mayoría de los encuestados tienen el grado de licenciado seguido por el de maestro. Por otro lado, Europa parece ser el continente con mayor cantidad de personas con doctorado y Australia el que cuenta con menos.
 
-![educont](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/c819f34d-2da7-4d95-867a-68a58353ddd8)
+![educont](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/db344975-6b6a-4388-929f-af10cc6aa008)
 
 ## Análisis de Correspondencia
 
-La relación entre nivel de estudios y puestos de trabajo se muestra en la Figura (\ref{fig:esttrab}. El ajuste fue muy bueno pues la inercia de la primera dimensión es de 83.01\% y de la segunda 16.62\%.
+La relación entre nivel de estudios y puestos de trabajo se muestra en la Figura (\ref{fig:esttrab}. El ajuste fue muy bueno pues la inercia de la primera dimensión es de 83.01% y de la segunda 16.62%.
 
-![EstTrab](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/8ddacee8-59f7-4071-9163-3e41c458608f)
+![EstTrab](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/2f4cc13f-a5be-4a14-b9db-0fd32ee1d7c3)
 
 Para comprender mejor el comportamiento podemos obtener las contribuciones de cada variable, es decir, de cada puesto de trabajo a la inercia total. Estas contribuciones se muestra en la siguiente tabla:
 
@@ -54,11 +54,11 @@ Para comprender mejor el comportamiento podemos obtener las contribuciones de ca
 
 Como podemos observar en la primera dimensión las variables con valores más grandes son el Research Scientist, Statistician y Student, lo que nos indica que esta dimensión está relacionado con los puestos académicos mientras que en la segunda dimensión los demas cargos laborales tienen contribuciones similares indicando que esta está relacionada con los puestos en la industria. 
 
-Este análisis se confirma observando la Figura (\ref{fig:esttrab} pues el Research Scientist y el Statistician están corridos a la derecha y en el cuadrante inferior mientras que los demás están en cuadrantes superiores y entre izquierda y el centro. 
+Este análisis se confirma observando la Figura anterior pues el Research Scientist y el Statistician están corridos a la derecha y en el cuadrante inferior mientras que los demás están en cuadrantes superiores y entre izquierda y el centro. 
 
-Para conocer que lenguajes de programación son los más requeridos y empleados en trabajos de ciencia y análisis de datos se realizó el respectivo análisis de correspondencia obteniendo la gráfica que se muestra en la Figura (\ref{progtrab}). De igual manera el ajuste fue bueno pues la inercia de la primera dimensión fue 49.66\% y de la segunda 28.93\%.
+Para conocer que lenguajes de programación son los más requeridos y empleados en trabajos de ciencia y análisis de datos se realizó el respectivo análisis de correspondencia obteniendo la gráfica que se muestra en la siguiente figura. De igual manera el ajuste fue bueno pues la inercia de la primera dimensión fue 49.66% y de la segunda 28.93%.
 
-![progtrab](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/d89b1b14-11f8-4e27-aeaf-85a02582f853)
+![progtrab](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/83f402f7-1c3c-4687-a8ea-9e66c4d3478e)
 
 Las contribuciones de cada variable se muestran en la siguiente tabla
 
@@ -79,11 +79,11 @@ Las contribuciones de cada variable se muestran en la siguiente tabla
 | Student                 | 0.058647163    | 0.03741474287  |
 
 
-Las variables con mayor contribución son Bussines Analyst, Data Analyst, Data Scientist y Statistician indicando que la primera dimensión está relacionada con los lenguajes de programación que se utilizan en el análisis y modelado de datos mientras que en la segunda dimensión las contribuciones más grandes son del Data Engineer, Database Engineer, Software Engineer y Statistician lo que indica que la segunda dimensión posiciona lenguajes de programación que están mas relacionados con el tratamiento, manejo y cuidado de los datos y no así con el análisis y creación de modelos.  \\
+Las variables con mayor contribución son Bussines Analyst, Data Analyst, Data Scientist y Statistician indicando que la primera dimensión está relacionada con los lenguajes de programación que se utilizan en el análisis y modelado de datos mientras que en la segunda dimensión las contribuciones más grandes son del Data Engineer, Database Engineer, Software Engineer y Statistician lo que indica que la segunda dimensión posiciona lenguajes de programación que están mas relacionados con el tratamiento, manejo y cuidado de los datos y no así con el análisis y creación de modelos.  
 
-La relación que hay entre los salarios y el puesto de trabajo se muestra en la Figura(\ref{fig:saltrab}), obteniendo inercias de 48.48\% y 20.12\% para la primera y segunda dimensión respectivamente.
+La relación que hay entre los salarios y el puesto de trabajo se muestra en la Figura(\ref{fig:saltrab}), obteniendo inercias de 48.48% y 20.12% para la primera y segunda dimensión respectivamente.
 
-![saltrab](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/c2d885b8-de68-4dce-aab3-93cadbf194c4)
+![saltrab](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/9bd69088-81b4-489c-a2ed-1827186ca0bc)
 
 Se obtuvieron las contribuciones de cada variable que se muestran en la siguiente tabla.
 
@@ -102,11 +102,11 @@ Se obtuvieron las contribuciones de cada variable que se muestran en la siguient
 | Statistician            | 0.1312116417   | 0.28819969887 |
 
 
-Analizando la Figura (\ref{fig:saltrab}) vemos que los salarios mas altos los tienen los Data Engineer con más de USD 500,000 al año, seguidos de los Data Scientist que perciben salarios intermedios altos, los salarios más bajos parecen arguparse al rededor de puestos como Software Engineer, Machine Learning Engineer y Reseach Scientist.
+Analizando la Figura anterior, vemos que los salarios mas altos los tienen los Data Engineer con más de USD 500,000 al año, seguidos de los Data Scientist que perciben salarios intermedios altos, los salarios más bajos parecen arguparse al rededor de puestos como Software Engineer, Machine Learning Engineer y Reseach Scientist.
 
-Por último obtuvimos del análisis de correspondencia entre los algoritmos más usados entre distintos tipos de trabajo la siguiente Figura(\ref{fig:esttrab}). De ajuste se obtuvieron inercia de la primera dimensión de 66.11\% e inercia de la segunda con un valor de 26.11\%
+Por último obtuvimos del análisis de correspondencia entre los algoritmos más usados entre distintos tipos de trabajo que se muestra en la siguiente figura. De ajuste se obtuvieron inercia de la primera dimensión de 66.11% e inercia de la segunda con un valor de 26.11%
 
-![algmltrab](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/0399dcd9-24d0-4167-b995-0b41de5bf2b6)
+![algmltrab](https://github.com/david-mcampa/AnalisisCorrespondenciaOcupacionLaboralTI/assets/74944322/2d1faeb3-e2d9-4442-b3ae-67847c493373)
 
 Las contribuciones de cada variable son las siguientes:
 
